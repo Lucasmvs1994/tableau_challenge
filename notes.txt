@@ -34,7 +34,7 @@ Some notes on the analysis done...
 
 - The 7th was the day with the lowest usage of the city bikes of June 2013
 
-- The most popular station to start an end a journey in June 2013 is  W 20 St & 11 Ave
+- The most popular station to start and end a journey in June 2013 is W 20 St & 11 Ave
 
 - The peak hours in which the bikes were used the most in June 2013 were between 17 (5 pm) & 18 (6 pm) hours
 
