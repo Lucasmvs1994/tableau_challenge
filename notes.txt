@@ -1,0 +1,41 @@
+Some notes on the analysis done...
+
+- The gender breakdown analysis shows that male users ride the City Bikes more frequently than female users 
+
+- Based on analysis, the top 10 stations to end a journey in 2013 are 
+
+    8 Ave & W 31 St N	
+    9 Ave & W 14 St	
+    West St & Chambers St	
+    Broadway & W 24 St	
+    Broadway & E 14 St	
+    West Thames St	
+    Central Park S & 6 Ave	
+    Broadway & W 58 St	
+    E 17 St & Broadway	
+    W 20 St & 11 Ave	
+
+- Based on analysis, the bottom 10 stations to end a journey in 2013 are  
+
+    MLSWKiosk	
+    Park Ave & St Edwards St	
+    DeKalb Ave & Skillman St	
+    DeKalb Ave & Vanderbilt Ave	
+    Hanover Pl & Livingston St	
+    Sands St & Navy St	
+    NYCBS Test	
+    Monroe St & Classon Ave	
+    3969.TEMP (Bike The Branches - Central Branch)	
+    Clermont Ave & Park Ave	
+
+- Short-term vs. annual customers analysis shows that yearly subscribers make up the most number of the City bike users 
+
+- The 29th was the day with the highest usage of the city bikes of June 2013 
+
+- The 7th was the day with the lowest usage of the city bikes of June 2013
+
+- The most popular station to start an end a journey in June 2013 is  W 20 St & 11 Ave
+
+- The peak hours in which the bikes were used the most in June 2013 were between 17 (5 pm) & 18 (6 pm) hours
+
+
